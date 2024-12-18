@@ -14,7 +14,7 @@ Skills
 - 🌱 I’m a Front-End Web Developer
 - 🤖 I'm  passionate about Machine Learning 
 
-- 📫 How to reach me: ** linkedin.com/in/anwesha-mondal-2863b8288**
+- 📫 How to reach me: **linkedin.com/in/anwesha-mondal-2863b8288/**
   </h4>
 <h4>Skills</h4>
 <a href="https://skillicons.dev">
