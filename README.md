@@ -18,5 +18,5 @@ Skills
   </h4>
 <h4>Skills</h4>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,python,mysql,html,css,js,replit,git,github,jupyter notebook" />
+    <img src="https://skillicons.dev/icons?i=java,c,python,mysql,html,css,js,replit,git,github,jupyter notebook, python" />
 </a>
