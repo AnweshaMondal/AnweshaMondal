@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/bc/87/e5/bc87e5124f8d2cfe810d403adc96ad01.gif)
+![MasterHead](https://raw.githubusercontent.com/AnweshaMondal/AnweshaMondal/refs/heads/main/pexels-rdne-7915289.jpg)
 
 # Hi 👋, I'm Anwesha Mondal
 ## A passionate developer from India crafting innovative solutions 🚀
